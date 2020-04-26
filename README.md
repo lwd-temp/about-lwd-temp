@@ -66,3 +66,6 @@ zwt，或ZWT。
 
 # 此设定的许可方式
 在此叙事层，余教科团的设定和相关故事以知识共享 署名 4.0 国际 许可协议进行许可。此设定包含了SCP Foundation和其他商业作品的相关设定，这些部分的许可需要你自行向版权方询问相关事宜，l-w-d---t-e-m-p不对任何人的错误使用负责。
+
+本作品的原创部分采用知识共享 署名 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 http://creativecommons.org/licenses/by/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
+对于本作品的引用部分，l-w-d---t-e-m-p不保留任何权利。
