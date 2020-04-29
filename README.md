@@ -67,7 +67,7 @@ zwt，或ZWT。
 
 主要贡献：HBZ，HBZ-Win32，ZWT License，rns.py的彩蛋部分，Zwtfy.py。
 
-<span class="heimu" title="？？？">似乎有记录的造成的恶劣影响是修改rns.py的作者信息并且很快就被改回来了...</span><span class="heimu" title="你知道的太多了">~~看来如果真的是上层叙事也应该很可爱吧~~...</span><span class="heimu" title="SCP基金会警告">希望不会突然开始虐角色或删除世界线什么的...</span>
+<span class="heimu" title="？？？">似乎有记录的造成的最恶劣影响是修改rns.py的作者信息并且很快就被改回来了...</span><span class="heimu" title="你知道的太多了">~~看来如果真的是上层叙事也应该很可爱吧~~...</span><span class="heimu" title="SCP基金会警告">希望不会突然开始虐角色或删除世界线什么的...</span>
 
 ### 似乎不可能出现在这里[。](/secret/2020-04-28-z-loader.html)
 ```
