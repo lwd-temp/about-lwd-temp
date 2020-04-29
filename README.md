@@ -65,7 +65,9 @@ zwt，或ZWT。
 ### 注意
 这是一个疑似的上层叙事实体，我们只能确定其对此叙事层造成了影响。我们无法干预任何影响，此账号的部分项目可能已被修改。
 
-主要贡献：hbz，hbz-win32，ZWT License，rns.py的彩蛋部分，Zwtfy.py。
+主要贡献：HBZ，HBZ-Win32，ZWT License，rns.py的彩蛋部分，Zwtfy.py。
+
+<span class="heimu" title="？？？">似乎有记录的造成的恶劣影响是修改rns.py的作者信息并且很快就被改回来了...</span><span class="heimu" title="你知道的太多了">~~看来如果真的是上层叙事也应该很可爱吧~~...</span><span class="heimu" title="SCP基金会警告">希望不会突然开始虐角色或删除世界线什么的...</span>
 
 ### 似乎不可能出现在这里[。](/secret/2020-04-28-z-loader.html)
 ```
@@ -89,3 +91,27 @@ a{ text-decoration:none}
 a:hover{ text-decoration:underline} 
 </style>
 <!--链接无下划线-->
+
+<!--黑幕CSS-->
+<!--  <span class="heimu" title="你知道的太多了">应用举例</span>  -->
+<style>
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover, .heimu:active,
+.heimu:hover .heimu, .heimu:active .heimu {
+    color: white !important;
+}
+.heimu:hover a, a:hover .heimu,
+.heimu:active a, a:active .heimu {
+    color: lightblue !important;
+}
+.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
+.heimu:active .new, .heimu .new:active, .new:active .heimu {
+    color: #BA0000 !important;
+}
+
+/*阅读更多：https://zh.moegirl.org/MediaWiki:Mobile.css 本文引自萌娘百科(https://zh.moegirl.org)，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。*/
+</style>
